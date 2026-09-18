@@ -43,6 +43,14 @@ Me encuentro fortaleciendo mis conocimientos en **Java, Spring Boot, desarrollo 
 ---
 
 ### 💻 “Aprender, programar y construir soluciones.”
+## 📫 Conecta conmigo
+
+¿Tienes una pregunta o una idea para colaborar? Puedes contactarme aquí:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adirnc18/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ADIR1987787)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neutrolee965@gmail.com)
+
 ## 🛠️ Tecnologías que utilizo y estoy aprendiendo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
