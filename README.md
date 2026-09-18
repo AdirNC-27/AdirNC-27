@@ -43,3 +43,10 @@ Me encuentro fortaleciendo mis conocimientos en **Java, Spring Boot, desarrollo 
 ---
 
 ### 💻 “Aprender, programar y construir soluciones.”
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de Adir en GitHub](https://github-readme-stats.vercel.app/api?username=AdirNC-27&show_icons=true&theme=tokyonight)
+
+## 💻 Lenguajes más utilizados
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AdirNC-27&layout=compact&theme=tokyonight)
